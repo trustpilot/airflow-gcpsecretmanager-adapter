@@ -1,7 +1,7 @@
 import setuptools
 
 PACKAGE_NAME = 'airflow-gcpsecretmanager-adapter'
-PACKAGE_VERSION = '0.0.7'
+PACKAGE_VERSION = '2.0.0'
 
 REQUIRED_PACKAGES = [
     "apache-airflow-backport-providers-google==2021.3.3",
