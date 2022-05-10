@@ -29,3 +29,6 @@ pip install airflow-gcpsecretmanager-adapter
 | ::                | -             |
 | :                 | -             |
 
+## Deployment
+
+Follow the instructions here: https://packaging.python.org/en/latest/tutorials/packaging-projects/ to build and deploy a new version of the adapter library.
