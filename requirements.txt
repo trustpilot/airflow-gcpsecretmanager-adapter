@@ -1,1 +1,4 @@
 apache-airflow-backport-providers-google==2021.3.3
+flask-appbuilder>=4.5.3 # not directly required, pinned by Snyk to avoid a vulnerability
+gunicorn>=23.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
+jinja2>=3.1.6 # not directly required, pinned by Snyk to avoid a vulnerability
