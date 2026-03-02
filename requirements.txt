@@ -1,1 +1,2 @@
 apache-airflow-backport-providers-google==2021.3.3
+apache-airflow>=2.11.1rc2 # not directly required, pinned by Snyk to avoid a vulnerability
